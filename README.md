@@ -1,4 +1,5 @@
 🏦 Loan Approval Classifier
+
 Hey there! 👋
 
 Welcome to my Loan Approval Classifier project! This project is all about predicting whether a loan application will get approved or not based on the applicant's financial and personal details. I built this to simplify the loan approval process and make it faster and more accurate using machine learning.
